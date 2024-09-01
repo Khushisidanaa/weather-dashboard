@@ -1,0 +1,13 @@
+# byte-compiled
+__pycache__/
+
+# virtual environments
+.venv
+
+# open-meteo sqlite cache
+.cache.sqlite
+
+# macOS
+.DS_Store
+
+.openmeteo_cache.sqlite
